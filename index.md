@@ -21,7 +21,7 @@ Para a criança continuar de onde parou, o app guarda **apenas no próprio apare
 - o progresso nas lições (acertos, estrelas, dias jogados) e o recorde do Relâmpago;
 - o nível de cada atividade e os exercícios para revisar;
 - o apelido e a cor do Contito escolhidos pela criança;
-- as configurações (som, velocidade da voz, cores, tamanho dos botões, menos animação, tempo de olhar do "Quantos você vê?" e lembrete de pausa).
+- as configurações (som, voz escolhida e velocidade da voz, cores, tamanho dos botões, menos animação, tempo de olhar do "Quantos você vê?" e lembrete de pausa).
 
 Essas informações nunca saem do aparelho. Para apagá-las, basta limpar os dados do app nas configurações do Android ou desinstalá-lo.
 
