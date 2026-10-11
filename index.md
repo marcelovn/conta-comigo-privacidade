@@ -18,9 +18,10 @@ O **Conta Comigo** é um app educativo de matemática para crianças. Esta polí
 
 Para a criança continuar de onde parou, o app guarda **apenas no próprio aparelho**:
 
-- o progresso nas lições (acertos, estrelas, dias jogados);
+- o progresso nas lições (acertos, estrelas, dias jogados) e o recorde do Relâmpago;
 - o nível de cada atividade e os exercícios para revisar;
-- as configurações (som, velocidade da voz, cores, tamanho dos botões, lembrete de pausa).
+- o apelido e a cor do Contito escolhidos pela criança;
+- as configurações (som, velocidade da voz, cores, tamanho dos botões, menos animação, tempo de olhar do "Quantos você vê?" e lembrete de pausa).
 
 Essas informações nunca saem do aparelho. Para apagá-las, basta limpar os dados do app nas configurações do Android ou desinstalá-lo.
 
